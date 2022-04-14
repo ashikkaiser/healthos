@@ -1,0 +1,6 @@
+export const ADD_FORM = 'ADD_FORM'
+export const ADD_FORM_SUCCESS = 'ADD_FORM_SUCCESS'
+export const ADD_FORM_FAIL = 'ADD_FORM_FAIL'
+export const GET_FORM = 'GET_FORM'
+export const GET_FORM_SUCCESS = 'GET_FORM_SUCCESS'
+export const GET_FORM_FAIL = 'GET_FORM_FAIL'

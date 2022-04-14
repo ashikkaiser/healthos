@@ -1,0 +1,6 @@
+export const ADD_UNIT = 'ADD_UNIT'
+export const ADD_UNIT_SUCCESS = 'ADD_UNIT_SUCCESS'
+export const ADD_UNIT_FAIL = 'ADD_UNIT_FAIL'
+export const GET_UNIT = 'GET_UNIT'
+export const GET_UNIT_SUCCESS = 'GET_UNIT_SUCCESS'
+export const GET_UNIT_FAIL = 'GET_UNIT_FAIL'

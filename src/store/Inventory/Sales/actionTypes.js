@@ -1,0 +1,6 @@
+export const SALE = 'ADD_SALE'
+export const ADD_SALE_SUCCESS = 'ADD_SALE_SUCCESS'
+export const ADD_SALE_FAIL = 'ADD_SALE_FAIL'
+export const GET_SALE = 'GET_SALE'
+export const GET_SALE_SUCCESS = 'GET_SALE_SUCCESS'
+export const GET_SALE_FAIL = 'GET_SALE_FAIL'
